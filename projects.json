@@ -1,0 +1,38 @@
+[
+  {
+    "name": "one piece character selection website",
+    "image": "./assets/one-piece-character-selection-website.png",
+    "tags": ["HTML", "CSS", "Javascript", "Responsivo"],
+    "link": "https://one-piece-character-selection-website.vercel.app/"
+  },
+  {
+    "name": "Página One Piece A Seríe",
+    "image": "./assets/serie-page.png",
+    "tags": ["HTML", "CSS", "Javascript", "Responsivo"],
+    "link": "https://serie-page.vercel.app/"
+  },
+  {
+    "name": "PSN Store",
+    "image": "./assets/psn-store.png",
+    "tags": ["Typescript", "Freamework", "Angular", "Responsivo"],
+    "link": "https://psn-store-six.vercel.app/"
+  },
+  {
+    "name": "Landing Page GTA V",
+    "image": "./assets/gtav-preview.png",
+    "tags": ["HTML", "CSS", "Javascript"],
+    "link": "https://landing-page-gta-v-v2.vercel.app/"
+  },
+  {
+    "name": "Landing Page Resident Evil 4 Remake",
+    "image": "./assets/re4-preview.png",
+    "tags": ["HTML", "CSS", "Javascript", "Responsivo"],
+    "link": "https://landing-page-re4-remake-kpvsyr07c-daniel777-hubs-projects.vercel.app/"
+  },
+  {
+    "name": "Agentes valorant",
+    "image": "./assets/agentes-valorant-preview.png",
+    "tags": ["Next.js", "Saas", "Typescript", "API"],
+    "link": "https://agentes-valorant-feftbxtyt-daniel777-hubs-projects.vercel.app/"
+  }
+]
